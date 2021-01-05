@@ -1,0 +1,45 @@
+
+***************** INFORMATIONS GENERALES ********************
+
+Reproduisez en html-css le plus fidelement possible la maquette capture.jpg.
+
+Votre page utilisera un système de normalisation css, et chargera deux polices à installer localement
+ ('Do Hyeon' pour les titres, 'Open Sans' à 18px pour le reste).
+
+Les informations de tailles, couleurs et espacements s'ils ne sont pas evoqués plus bas, sont à récuperer par estimation, par systeme de color picker, ou mieux encore par photoshop.
+
+
+EN TETE :
+
+- Taille du titre à 50px
+
+- Les elements de menu possèdent un fond blanc avec transparence (60% de visibilité / 30% lorsque le bouton est survolé).
+
+
+
+CONTENU : 
+
+- La largeur des differents blocs sont toutes définies en pourcentage, leur hauteur depend de leur contenu.
+
+- Une video youtube est à integrer. Rendez vous sur le site, cliquez sur "share" sous la video puis "embed", enfin copier/coller la balise <iframe> fournie et lui appliquer les modifications de taille nécessaires (720/405px)
+
+- Une carte google map est a integrer. Pour cela se rendre sur le site, cliquez sur le menu à gauche des modes de transport et selectionnez "partagez ou integrez la carte" puis "intégrer une carte", enfin copier/coller la balise <iframe> fournie et lui appliquer les modifications de taille nécessaires.
+
+- Les trois blocs div contienent chacun un bloc gris foncé, au survol un titre de niveau 3doit apparaitre depuis le bas du bloc et se placer au centre en animation comme montré sur le premier dans la capture.
+
+- Texte à copier si besoin :
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+PIED DE PAGE :
+
+- Un effet de survol doit être mis en place sur les boutons "voir", l'effet est identique aux éléments du menu du header (60% de visibilité / 30% lorsque le bouton est survolé).
+
+
+*******************************************************************
+
+Pensez à tester votre code régulièrement sur le validator W3C pour solutionner au plus vites les éventuelles erreurs de syntaxe ;)
+
+Bonne journée et bon code !
+
+
